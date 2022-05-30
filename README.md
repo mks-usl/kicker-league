@@ -1,2 +1,1 @@
 # kicker-league
-# kicker-league
